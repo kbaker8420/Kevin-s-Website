@@ -13,12 +13,12 @@ I am a PhD student at the University of New Hampshire working under Professor Xu
 
 ## Education
 B.S. Neuroscience and Behavior - University of New Hampshire
+
 PhD Student - Neuroscience and Behavior - University of New Hampshire
 
 
 ## Skills
-Immunohistochemistry
-Confocal Microscopy
+Immunohistochemistry, Confocal Microscopy, Mouse Colony Management
 
 
 :::
