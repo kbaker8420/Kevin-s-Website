@@ -3,17 +3,22 @@ title: "About Me"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/Kevin Baker3.jpg
 ---
 
 :::{#me}
+I am a PhD student at the University of New Hampshire working under Professor Xuanmao Chen and Professor Linqing Li. My research focuses on the development of the neocortex, with an emphasis on primary cilia dynamics. I hope to incorporate hydrogel cell culture systems in order to model the migratory  response of neurons to changes in tissue stiffness and the degradation of ECM components in the cortical plate as well as the subplate.
 
 ## Goals
 
 ## Education
+B.S. Neuroscience and Behavior - University of New Hampshire
+PhD Student - Neuroscience and Behavior - University of New Hampshire
 
-## Experience
+
+## Skills
+Immunohistochemistry
+Confocal Microscopy
+
 
 :::
-
-Thanks for checking out my web site!
