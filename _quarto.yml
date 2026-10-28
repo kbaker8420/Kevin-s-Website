@@ -3,10 +3,10 @@ project:
   output-dir: docs
   
 website:
-  title: "MY WEB SITE"
+  title: "Kevin Baker"
   navbar:
-    left:
-      - href: index.qmd
+    left: 
+      - href: https://github.com/kbaker8420/Kevin-s-Website
         text: Home
       - projects.qmd
     tools:
@@ -16,7 +16,7 @@ website:
         href: https://github.com/YOURUSERNAME/YOURREPO
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)"
-    left: "&copy; Copyright 2023, YOUR NAME"
+    left: "&copy; Copyright 2026, Kevin Baker"
 
 format:
   html:
